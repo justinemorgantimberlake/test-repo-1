@@ -4,3 +4,4 @@ to contribute, just edit this readme and make a pr, on successfull edit, it will
 contribute your name with an index number and your instagram handle name:
 eg: 
 1. James ig = @your-instagram-handle
+2. Razr ig = @razrexe
